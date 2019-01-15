@@ -13,7 +13,7 @@
 <body>
     <div class="formBox">
         <img src="ultFinal.jpg" alt="logo" class="image">
-        <h1 data-text="ENTER JIIT NETWORK">ENTER JIIT NETWORK</h1>
+        <h1 data-text="ENTER JIIT NETWORK">Enter JIIT Network</h1>
         <form action="forgotPassword.php" method="POST">
             <div class="inputBox">
                 <input type="text" name="username" placeholder=" ">
