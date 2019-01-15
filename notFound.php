@@ -12,8 +12,8 @@
 </head>
 <body>
     <center>
-        <h1>Error 404 : Page Not Found</h1>
-        <a href="home.php">Click here to go to Home Page</a>
+        <h1>Error 404 : Page Not Found.</h1>
+        <a href="home.php">Click here to go to Home Page.</a>
     </center>
 </body>
 </html>
