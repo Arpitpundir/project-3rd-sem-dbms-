@@ -38,7 +38,7 @@ else{
     <button id="csec" onclick="revealHideComments()">Comment Section</button>
     <form id="commentForm" action="<?php echo "post.php?postID=$postID";?>" method="post">
         <input type="text" name="comment" placeholder="comment">
-        <button type="submit" name="submitComment" value="submitComment">Comment</button>
+        <button type="submit" name="submitComment" value="submitComment">Comments</button>
     </form>
     <?php
     $sql3="select * from comments where postID='$postID' order by originAt desc";
